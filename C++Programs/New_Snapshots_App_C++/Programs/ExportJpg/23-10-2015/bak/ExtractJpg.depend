@@ -1,0 +1,585 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\richard\documents\work\c++\extractjpg\extractjpg\main.cpp
+	<iostream>
+
+1444657268 source:c:\users\richard\documents\work\c++\extractjpg\12-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+
+1444656407 c:\users\richard\documents\work\c++\extractjpg\12-10-2015\extractfile.h
+	<string>
+	<vector>
+	"simpleini-master/SimpleIni.h"
+	"IndexFileStructure.h"
+
+1444383808 c:\users\richard\documents\work\c++\extractjpg\12-10-2015\simpleini-master\simpleini.h
+	<cstring>
+	<cstdlib>
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+	<cassert>
+	<unicode/ustring.h>
+	<wchar.h>
+	"ConvertUTF.h"
+	<unicode/ucnv.h>
+	<windows.h>
+	<mbstring.h>
+
+1444383808 c:\users\richard\documents\work\c++\extractjpg\12-10-2015\simpleini-master\convertutf.h
+
+1444655837 c:\users\richard\documents\work\c++\extractjpg\12-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444655747 source:c:\users\richard\documents\work\c++\extractjpg\12-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+
+1444652979 source:c:\users\richard\documents\work\c++\extractjpg\12-10-2015\main.cpp
+	<iostream>
+	"ExtractFile.h"
+
+1444655747 source:c:\users\richard\documents\work\c++\extractjpg\13-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+
+1444655837 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444735401 source:c:\users\richard\documents\work\c++\extractjpg\13-10-2015\main.cpp
+	<iostream>
+	"ExtractFile.h"
+
+1444740913 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1444383808 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\simpleini-master\simpleini.h
+	<cstring>
+	<cstdlib>
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+	<cassert>
+	<unicode/ustring.h>
+	<wchar.h>
+	"ConvertUTF.h"
+	<unicode/ucnv.h>
+	<windows.h>
+	<mbstring.h>
+
+1444383808 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\simpleini-master\convertutf.h
+
+1444741111 source:c:\users\richard\documents\work\c++\extractjpg\13-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1444731803 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\iniwriter.h
+
+1444731066 c:\users\richard\documents\work\c++\extractjpg\13-10-2015\inireader.h
+
+1444734962 source:c:\users\richard\documents\work\c++\extractjpg\13-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444734978 source:c:\users\richard\documents\work\c++\extractjpg\13-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444655747 source:c:\users\richard\documents\work\c++\extractjpg\14-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+
+1444655837 c:\users\richard\documents\work\c++\extractjpg\14-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444734962 source:c:\users\richard\documents\work\c++\extractjpg\14-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731066 c:\users\richard\documents\work\c++\extractjpg\14-10-2015\inireader.h
+
+1444734978 source:c:\users\richard\documents\work\c++\extractjpg\14-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731803 c:\users\richard\documents\work\c++\extractjpg\14-10-2015\iniwriter.h
+
+1444832862 source:c:\users\richard\documents\work\c++\extractjpg\14-10-2015\main.cpp
+	<iostream>
+	"ExtractFile.h"
+	"windows.h"
+
+1444829362 c:\users\richard\documents\work\c++\extractjpg\14-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1444832862 source:c:\users\richard\documents\work\c++\extractjpg\14-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1444655747 source:c:\users\richard\documents\work\c++\extractjpg\15-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+
+1444655837 c:\users\richard\documents\work\c++\extractjpg\15-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444734962 source:c:\users\richard\documents\work\c++\extractjpg\15-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731066 c:\users\richard\documents\work\c++\extractjpg\15-10-2015\inireader.h
+
+1444734978 source:c:\users\richard\documents\work\c++\extractjpg\15-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731803 c:\users\richard\documents\work\c++\extractjpg\15-10-2015\iniwriter.h
+
+1444919399 source:c:\users\richard\documents\work\c++\extractjpg\15-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1444916926 c:\users\richard\documents\work\c++\extractjpg\15-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1444918642 source:c:\users\richard\documents\work\c++\extractjpg\15-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445006236 source:c:\users\richard\documents\work\c++\extractjpg\16-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445004980 c:\users\richard\documents\work\c++\extractjpg\16-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444734962 source:c:\users\richard\documents\work\c++\extractjpg\16-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731066 c:\users\richard\documents\work\c++\extractjpg\16-10-2015\inireader.h
+
+1444734978 source:c:\users\richard\documents\work\c++\extractjpg\16-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731803 c:\users\richard\documents\work\c++\extractjpg\16-10-2015\iniwriter.h
+
+1444980250 source:c:\users\richard\documents\work\c++\extractjpg\16-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445004980 c:\users\richard\documents\work\c++\extractjpg\16-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445005671 source:c:\users\richard\documents\work\c++\extractjpg\16-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1444734962 source:c:\users\richard\documents\work\c++\extractjpg\19-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731066 c:\users\richard\documents\work\c++\extractjpg\19-10-2015\inireader.h
+
+1444734978 source:c:\users\richard\documents\work\c++\extractjpg\19-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731803 c:\users\richard\documents\work\c++\extractjpg\19-10-2015\iniwriter.h
+
+1444980250 source:c:\users\richard\documents\work\c++\extractjpg\19-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445004980 c:\users\richard\documents\work\c++\extractjpg\19-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445004980 c:\users\richard\documents\work\c++\extractjpg\19-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1445260899 source:c:\users\richard\documents\work\c++\extractjpg\19-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445262519 source:c:\users\richard\documents\work\c++\extractjpg\19-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1444734962 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731066 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\inireader.h
+
+1444734978 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444731803 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\iniwriter.h
+
+1444980250 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445345323 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445004980 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1445349391 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445350834 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\20-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445350834 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445004980 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1444731803 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\iniwriter.h
+
+1444731066 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\inireader.h
+
+1444734962 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444734978 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444980250 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445439818 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445434711 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\21-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<tchar.h>
+	<stdio.h>
+	<sstream>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445350834 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\indexfilestructure.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445004980 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1445500655 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\iniwriter.h
+
+1445509284 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\inireader.h
+
+1445500625 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1445500655 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444980250 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445510313 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445510781 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\22-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<tchar.h>
+	<stdio.h>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+
+1445594051 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\indexfilestructure.cpp
+	<string>
+	<sstream>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	"IndexFileStructure.h"
+	"ExtractFile.h"
+
+1445588459 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\indexfilestructure.h
+	<string>
+	<windows.h>
+
+1445500655 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\iniwriter.h
+
+1445509284 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\inireader.h
+
+1445500625 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\inireader.cpp
+	"IniReader.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1445500655 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\iniwriter.cpp
+	"IniWriter.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
+1444980250 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\main.cpp
+	<iostream>
+	<fstream>
+	"ExtractFile.h"
+
+1445590554 c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\extractfile.h
+	<string>
+	<vector>
+	"IndexFileStructure.h"
+
+1445594051 source:c:\users\richard\owncloud\shared\trackmelive\api\new snapshots app\programs\exportjpg\23-10-2015\extractfile.cpp
+	<string>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<tchar.h>
+	<stdio.h>
+	"ExtractFile.h"
+	"IniWriter.h"
+	"IniReader.h"
+

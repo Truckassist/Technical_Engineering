@@ -1,0 +1,15 @@
+[2015-10-23 15:36:32] **START OF PROGRAM**
+[2015-10-23 15:36:32] Beginning to search for more files:
+[2015-10-23 15:36:32] Could not open directory picfiles. Aborting!
+[2015-10-23 15:36:37] **START OF PROGRAM**
+[2015-10-23 15:36:37] Beginning to search for more files:
+[2015-10-23 15:36:37] Could not open directory picfiles. Aborting!
+[2015-10-23 15:38:17] **START OF PROGRAM**
+[2015-10-23 15:38:17] Beginning to search for more files:
+[2015-10-23 15:38:17] Could not open directory picfiles. Aborting!
+[2015-10-23 15:39:57] **START OF PROGRAM**
+[2015-10-23 15:39:57] Beginning to search for more files:
+[2015-10-23 15:39:57] Could not open directory picfiles. Aborting!
+[2015-10-23 15:43:57] **START OF PROGRAM**
+[2015-10-23 15:43:57] Beginning to search for more files:
+[2015-10-23 15:43:57] Could not open directory picfiles. Aborting!

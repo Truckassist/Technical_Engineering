@@ -1,0 +1,103 @@
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+Reading picfile: 20150912-131346.picfile
+Closing picfile: 20150912-131346.picfile
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+Reading picfile: 20150914-131346.picfile
+Failed to create C:\\Users\\Richard\\Documents\\Work\\C++\\ExtractJpg\\snapshots\\00006\2015\0914¬³\00006_20150914_153546_N20.jpg file! Aborting!
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+Reading picfile: 20150912-131346.picfile
+Closing picfile: 20150912-131346.picfile
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+Reading picfile: 20150914-131346.picfile
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+Reading picfile: 20150912-131346.picfile
+Closing picfile: 20150912-131346.picfile
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+Reading picfile: 20150914-131346.picfile
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+Reading picfile: 20150912-131346.picfile
+Closing picfile: 20150912-131346.picfile
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+Reading picfile: 20150914-131346.picfile
+Closing picfile: 20150914-131346.picfile
+Opened index file 20150930-090953.picfile.index
+Closing index file 20150930-090953.picfile.index
+Reading picfile: 20150930-090953.picfile
+Closing picfile: 20150930-090953.picfile
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+This is the end of the file
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+This is the end of the file
+Opened index file 20150930-090953.picfile.index
+Closing index file 20150930-090953.picfile.index
+This is the end of the file

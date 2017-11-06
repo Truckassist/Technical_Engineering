@@ -1,0 +1,47 @@
+[2015-10-23 15:38:58] **START OF PROGRAM**
+[2015-10-23 15:38:58] Beginning to search for more files:
+[2015-10-23 15:38:58] Could not open directory picfiles. Aborting!
+[2015-10-23 15:41:33] **START OF PROGRAM**
+[2015-10-23 15:41:33] Beginning to search for more files:
+[2015-10-23 15:41:33] Could not open directory picfiles. Aborting!
+[2015-10-23 15:42:06] **START OF PROGRAM**
+[2015-10-23 15:42:06] Beginning to search for more files:
+[2015-10-23 15:42:06] Could not open directory picfiles. Aborting!
+[2015-10-23 15:43:00] **START OF PROGRAM**
+[2015-10-23 15:43:00] Beginning to search for more files:
+[2015-10-23 15:43:00] Could not open directory picfiles. Aborting!
+[2015-10-23 15:47:42] **START OF PROGRAM**
+[2015-10-23 15:47:42] Beginning to search for more files:
+[2015-10-23 15:47:42] Could not open directory picfiles. Aborting!
+
+[2015-10-23 15:49:34] **START OF PROGRAM**
+[2015-10-23 15:49:34] Beginning to search for more files:
+[2015-10-23 15:49:34] Could not open directory picfiles. Aborting!
+
+[2015-10-23 15:50:29] **START OF PROGRAM**
+[2015-10-23 15:50:29] Beginning to search for more files:
+[2015-10-23 15:50:29] Could not open directory picfiles. Aborting!
+
+[2015-10-23 15:51:25] **START OF PROGRAM**
+[2015-10-23 15:51:25] Beginning to search for more files:
+[2015-10-23 15:51:25] Could not open directory picfiles. Aborting!
+
+[2015-10-23 15:51:36] **START OF PROGRAM**
+[2015-10-23 15:51:36] Beginning to search for more files:
+[2015-10-23 15:51:36] Could not open directory picfiles. Aborting!
+
+[2015-10-23 15:54:12] **START OF PROGRAM**
+[2015-10-23 15:54:12] Beginning to search for more files:
+[2015-10-23 15:54:12] Could not open directory picfiles. Aborting!
+
+[2015-10-23 16:26:52] **START OF PROGRAM**
+[2015-10-23 16:26:52] Beginning to search for more files:
+[2015-10-23 16:26:52] 20150914-131346.picfile.index
+[2015-10-23 16:26:52] 20150930-090953.picfile.index
+[2015-10-23 16:26:52] 20151012-131346.picfile.index
+[2015-10-23 16:26:52] Reading 20150914-131346.picfile.index
+[2015-10-23 16:26:52] Opened 20150914-131346.picfile.index
+[2015-10-23 16:26:52] Index vector size: 47468
+[2015-10-23 16:26:52] Closing 20150914-131346.picfile.index
+[2015-10-23 16:26:52] Reading 20150914-131346.picfile
+[2015-10-23 16:26:52] Initial JPG: #0

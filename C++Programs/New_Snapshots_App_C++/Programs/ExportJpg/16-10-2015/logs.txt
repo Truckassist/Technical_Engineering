@@ -1,0 +1,21 @@
+Beginning to search for more files
+Found new file: .
+Found new file: ..
+Found new file: 20150912-131346.picfile
+Found new file: 20150912-131346.picfile.index
+New index file: 20150912-131346.picfile.index
+Found new file: 20150914-131346.picfile
+Found new file: 20150914-131346.picfile.index
+New index file: 20150914-131346.picfile.index
+Found new file: 20150930-090953.picfile
+Found new file: 20150930-090953.picfile.index
+New index file: 20150930-090953.picfile.index
+Opened index file 20150912-131346.picfile.index
+Closing index file 20150912-131346.picfile.index
+Reading picfile: 20150912-131346.picfile
+Opened index file 20150914-131346.picfile.index
+Closing index file 20150914-131346.picfile.index
+Reading picfile: 20150914-131346.picfile
+Opened index file 20150930-090953.picfile.index
+Closing index file 20150930-090953.picfile.index
+Reading picfile: 20150930-090953.picfile

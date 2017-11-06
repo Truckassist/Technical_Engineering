@@ -1,0 +1,2 @@
+Beginning to search for more files
+Could not open directory picfiles. Aborting!

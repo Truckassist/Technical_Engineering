@@ -1,0 +1,148 @@
+[2015-10-22 12:05:00] Beginning to search for more files
+[2015-10-22 12:05:00] Index file: 20150914-131346.picfile.index
+[2015-10-22 12:05:00] Index file: 20150930-090953.picfile.index
+[2015-10-22 12:05:00] Index file: 20151012-131346.picfile.index
+[2015-10-22 12:05:00] Opened index file 20150914-131346.picfile.index
+[2015-10-22 12:05:00] Index vector size: 47468
+[2015-10-22 12:05:00] Closing index file 20150914-131346.picfile.index
+[2015-10-22 12:05:00] Reading picfile: 20150914-131346.picfile
+[2015-10-22 12:05:00] Initial JPG: #45000
+[2015-10-22 12:05:03] End JPG: #47468
+[2015-10-22 12:05:03] Closing picfile: 20150914-131346.picfile
+[2015-10-22 12:05:03] Opened index file 20150930-090953.picfile.index
+[2015-10-22 12:05:03] Index vector size: 49064
+[2015-10-22 12:05:03] Closing index file 20150930-090953.picfile.index
+[2015-10-22 12:05:03] Reading picfile: 20150930-090953.picfile
+[2015-10-22 12:05:03] Initial JPG: #45064
+[2015-10-22 12:05:28] End JPG: #49064
+[2015-10-22 12:05:28] Closing picfile: 20150930-090953.picfile
+[2015-10-22 12:05:28] Opened index file 20151012-131346.picfile.index
+[2015-10-22 12:05:28] Index vector size: 158
+[2015-10-22 12:05:28] Closing index file 20151012-131346.picfile.index
+[2015-10-22 12:05:28] This is the end of the file
+[2015-10-22 12:06:17] Beginning to search for more files
+[2015-10-22 12:06:17] Index file: 20150914-131346.picfile.index
+[2015-10-22 12:06:17] Index file: 20150930-090953.picfile.index
+[2015-10-22 12:06:17] Index file: 20151012-131346.picfile.index
+[2015-10-22 12:06:17] Opened index file 20150914-131346.picfile.index
+[2015-10-22 12:06:17] Index vector size: 47468
+[2015-10-22 12:06:17] Closing index file 20150914-131346.picfile.index
+[2015-10-22 12:06:17] This is the end of the file
+[2015-10-22 12:06:17] Opened index file 20150930-090953.picfile.index
+[2015-10-22 12:06:17] Index vector size: 49064
+[2015-10-22 12:06:17] Closing index file 20150930-090953.picfile.index
+[2015-10-22 12:06:17] Reading picfile: 20150930-090953.picfile
+[2015-10-22 12:06:17] Initial JPG: #45000
+[2015-10-22 12:06:26] End JPG: #49064
+[2015-10-22 12:06:26] Closing picfile: 20150930-090953.picfile
+[2015-10-22 12:06:26] Opened index file 20151012-131346.picfile.index
+[2015-10-22 12:06:26] Index vector size: 158
+[2015-10-22 12:06:26] Closing index file 20151012-131346.picfile.index
+[2015-10-22 12:06:26] This is the end of the file
+[2015-10-22 12:12:35] **START OF PROGRAM**
+[2015-10-22 12:12:35] Beginning to search for more files
+[2015-10-22 12:12:35] Index file: 20150930-090953.picfile.index
+[2015-10-22 12:12:35] Index file: 20151012-131346.picfile.index
+[2015-10-22 12:12:35] Opened index file 20150930-090953.picfile.index
+[2015-10-22 12:12:35] Index vector size: 49064
+[2015-10-22 12:12:35] Closing index file 20150930-090953.picfile.index
+[2015-10-22 12:12:35] This is the end of the file
+[2015-10-22 12:12:35] Opened index file 20151012-131346.picfile.index
+[2015-10-22 12:12:35] Index vector size: 158
+[2015-10-22 12:12:35] Closing index file 20151012-131346.picfile.index
+[2015-10-22 12:12:35] This is the end of the file
+[2015-10-22 12:38:39] **START OF PROGRAM**
+[2015-10-22 12:38:39] Beginning to search for more files
+[2015-10-22 12:38:39] Index file: 20151012-131346.picfile.index
+[2015-10-22 12:38:39] Opened index file 20151012-131346.picfile.index
+[2015-10-22 12:38:39] Index vector size: 158
+[2015-10-22 12:38:39] Closing index file 20151012-131346.picfile.index
+[2015-10-22 12:38:39] This is the end of the file
+[2015-10-22 12:39:38] **START OF PROGRAM**
+[2015-10-22 12:39:38] Beginning to search for more files
+[2015-10-22 12:39:38] Index file: 20150914-131346.picfile.index
+[2015-10-22 12:39:38] Index file: 20150930-090953.picfile.index
+[2015-10-22 12:39:38] Index file: 20151012-131346.picfile.index
+[2015-10-22 12:39:38] Opened index file 20150914-131346.picfile.index
+[2015-10-22 12:39:38] Index vector size: 47468
+[2015-10-22 12:39:38] Closing index file 20150914-131346.picfile.index
+[2015-10-22 12:39:38] Reading picfile: 20150914-131346.picfile
+[2015-10-22 12:39:38] Initial JPG: #45000
+[2015-10-22 12:39:40] End JPG: #47468
+[2015-10-22 12:39:40] Closing picfile: 20150914-131346.picfile
+[2015-10-22 12:39:40] Opened index file 20150930-090953.picfile.index
+[2015-10-22 12:39:40] Index vector size: 49064
+[2015-10-22 12:39:40] Closing index file 20150930-090953.picfile.index
+[2015-10-22 12:39:40] Reading picfile: 20150930-090953.picfile
+[2015-10-22 12:39:40] Initial JPG: #45000
+[2015-10-22 12:40:03] End JPG: #49064
+[2015-10-22 12:40:03] Closing picfile: 20150930-090953.picfile
+[2015-10-22 12:40:03] Opened index file 20151012-131346.picfile.index
+[2015-10-22 12:40:03] Index vector size: 158
+[2015-10-22 12:40:03] Closing index file 20151012-131346.picfile.index
+[2015-10-22 12:40:03] Reading picfile: 20151012-131346.picfile
+[2015-10-22 12:40:03] Initial JPG: #100
+[2015-10-22 12:40:04] End JPG: #158
+[2015-10-22 12:40:04] Closing picfile: 20151012-131346.picfile
+[2015-10-22 12:46:23] **START OF PROGRAM**
+[2015-10-22 12:46:23] Beginning to search for more files
+[2015-10-22 12:46:23] 20150914-131346.picfile.index
+[2015-10-22 12:46:23] 20150930-090953.picfile.index
+[2015-10-22 12:46:23] 20151012-131346.picfile.index
+[2015-10-22 12:46:23] Reading 20150914-131346.picfile.index
+[2015-10-22 12:46:23] Opened 20150914-131346.picfile.index
+[2015-10-22 12:46:23] Index vector size: 47468
+[2015-10-22 12:46:23] Closing 20150914-131346.picfile.index
+[2015-10-22 12:46:23] This is the end of the file
+[2015-10-22 12:46:23] Reading 20150930-090953.picfile.index
+[2015-10-22 12:46:23] Opened 20150930-090953.picfile.index
+[2015-10-22 12:46:23] Index vector size: 49064
+[2015-10-22 12:46:23] Closing 20150930-090953.picfile.index
+[2015-10-22 12:46:23] This is the end of the file
+[2015-10-22 12:46:23] Reading 20151012-131346.picfile.index
+[2015-10-22 12:46:23] Opened 20151012-131346.picfile.index
+[2015-10-22 12:46:23] Index vector size: 158
+[2015-10-22 12:46:23] Closing 20151012-131346.picfile.index
+[2015-10-22 12:46:23] This is the end of the file
+[2015-10-22 12:47:26] **START OF PROGRAM**
+[2015-10-22 12:47:26] Beginning to search for more files
+[2015-10-22 12:47:26] 20151012-131346.picfile.index
+[2015-10-22 12:47:26] Reading 20151012-131346.picfile.index
+[2015-10-22 12:47:26] Opened 20151012-131346.picfile.index
+[2015-10-22 12:47:26] Index vector size: 158
+[2015-10-22 12:47:26] Closing 20151012-131346.picfile.index
+[2015-10-22 12:47:26] This is the end of the file
+[2015-10-22 12:48:24] **START OF PROGRAM**
+[2015-10-22 12:48:24] Beginning to search for more files
+[2015-10-22 12:48:24] 20151012-131346.picfile.index
+[2015-10-22 12:48:24] Reading 20151012-131346.picfile.index
+[2015-10-22 12:48:24] Opened 20151012-131346.picfile.index
+[2015-10-22 12:48:24] Index vector size: 158
+[2015-10-22 12:48:24] Closing 20151012-131346.picfile.index
+[2015-10-22 12:48:24] This is the end of the file
+[2015-10-22 12:51:01] **START OF PROGRAM**
+[2015-10-22 12:51:01] Beginning to search for more files:
+[2015-10-22 12:51:01] 20150914-131346.picfile.index
+[2015-10-22 12:51:01] 20150930-090953.picfile.index
+[2015-10-22 12:51:01] 20151012-131346.picfile.index
+[2015-10-22 12:51:01] Reading 20150914-131346.picfile.index
+[2015-10-22 12:51:01] Opened 20150914-131346.picfile.index
+[2015-10-22 12:51:01] Index vector size: 47468
+[2015-10-22 12:51:01] Closing 20150914-131346.picfile.index
+[2015-10-22 12:51:01] Reading 20150914-131346.picfile
+[2015-10-22 12:51:01] Initial JPG: #45000
+[2015-10-22 12:51:04] End JPG: #47468
+[2015-10-22 12:51:04] Closing 20150914-131346.picfile
+[2015-10-22 12:51:04] Reading 20150930-090953.picfile.index
+[2015-10-22 12:51:04] Opened 20150930-090953.picfile.index
+[2015-10-22 12:51:04] Index vector size: 49064
+[2015-10-22 12:51:04] Closing 20150930-090953.picfile.index
+[2015-10-22 12:51:04] Reading 20150930-090953.picfile
+[2015-10-22 12:51:04] Initial JPG: #45000
+[2015-10-22 12:51:23] End JPG: #49064
+[2015-10-22 12:51:23] Closing 20150930-090953.picfile
+[2015-10-22 12:51:23] Reading 20151012-131346.picfile.index
+[2015-10-22 12:51:23] Opened 20151012-131346.picfile.index
+[2015-10-22 12:51:23] Index vector size: 158
+[2015-10-22 12:51:23] Closing 20151012-131346.picfile.index
+[2015-10-22 12:51:23] This is the end of the file

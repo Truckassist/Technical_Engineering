@@ -1,0 +1,8 @@
+﻿  HEX_VS.cpp
+HEX_VS.cpp(28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  stdafx.cpp
+  Generating code
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HEX_VS.vcxproj -> c:\users\agartha\documents\visual studio 2015\Projects\HEX_VS\x64\Release\HEX_VS.exe
+  HEX_VS.vcxproj -> c:\users\agartha\documents\visual studio 2015\Projects\HEX_VS\x64\Release\HEX_VS.pdb (Full PDB)

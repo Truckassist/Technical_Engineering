@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1443446319 source:/media/richard/01D0D1FEA9E8A980/Users/Richard/Documents/Work/C++/SnapsExtraction/28-09-2015/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Index.h"
+
+1443445835 /media/richard/01D0D1FEA9E8A980/Users/Richard/Documents/Work/C++/SnapsExtraction/28-09-2015/Index.h
+
+1443448054 source:/home/richard/Documents/Work/C++/28-09-2015/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Index.h"
+
+1443445835 /home/richard/Documents/Work/C++/28-09-2015/Index.h
+
+1443521958 source:/home/richard/Documents/Work/C++/29-09-2015/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<string>
+	"Index.h"
+
+1443445835 /home/richard/Documents/Work/C++/29-09-2015/Index.h
+
+1443534678 source:/home/richard/Documents/Work/C++/29-09-2015_classes/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	"Index.h"
+
+1443530663 /home/richard/Documents/Work/C++/29-09-2015_classes/Index.h
+	"SystemTime.h"
+	<iostream>
+	<string>
+
+1443523707 /home/richard/Documents/Work/C++/29-09-2015_classes/SystemTime.h
+
+1443530551 source:/home/richard/Documents/Work/C++/29-09-2015_classes/Index.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"Index.h"
+

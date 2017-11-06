@@ -1,0 +1,112 @@
+[2015-10-20 15:53:44] Beginning to search for more files
+[2015-10-20 15:53:44] Found new file: .
+[2015-10-20 15:53:44] Found new file: ..
+[2015-10-20 15:53:44] Found new file: 20150912-131346.picfile
+[2015-10-20 15:53:44] Found new file: 20150912-131346.picfile.index
+[2015-10-20 15:53:44] New index file: 20150912-131346.picfile.index
+[2015-10-20 15:53:44] Found new file: 20150914-131346.picfile
+[2015-10-20 15:53:44] Found new file: 20150914-131346.picfile.index
+[2015-10-20 15:53:44] New index file: 20150914-131346.picfile.index
+[2015-10-20 15:53:44] Found new file: 20150930-090953.picfile
+[2015-10-20 15:53:44] Found new file: 20150930-090953.picfile.index
+[2015-10-20 15:53:44] New index file: 20150930-090953.picfile.index
+[2015-10-20 15:54:40] Beginning to search for more files
+[2015-10-20 15:54:40] Found new file: .
+[2015-10-20 15:54:40] Found new file: ..
+[2015-10-20 15:54:40] Found new file: 20150912-131346.picfile
+[2015-10-20 15:54:40] Found new file: 20150912-131346.picfile.index
+[2015-10-20 15:54:40] New index file: 20150912-131346.picfile.index
+[2015-10-20 15:54:40] Found new file: 20150914-131346.picfile
+[2015-10-20 15:54:40] Found new file: 20150914-131346.picfile.index
+[2015-10-20 15:54:40] New index file: 20150914-131346.picfile.index
+[2015-10-20 15:54:40] Found new file: 20150930-090953.picfile
+[2015-10-20 15:54:40] Found new file: 20150930-090953.picfile.index
+[2015-10-20 15:54:40] New index file: 20150930-090953.picfile.index
+[2015-10-20 15:54:40] Opened index file 20150912-131346.picfile.index
+[2015-10-20 15:54:40] Closing index file 20150912-131346.picfile.index
+[2015-10-20 15:54:40] Reading picfile: 20150912-131346.picfile
+[2015-10-20 15:54:40] Failed to create C:\\Users\\Richard\\Documents\\Work\\C++\\ExtractJpg\\snapshots\\00009\2015\0916fM\16fM\CH4\00009_20150916_131342_N40.jpg file! Aborting!
+[2015-10-20 15:55:54] Beginning to search for more files
+[2015-10-20 15:55:54] Found new file: .
+[2015-10-20 15:55:54] Found new file: ..
+[2015-10-20 15:55:54] Found new file: 20150912-131346.picfile
+[2015-10-20 15:55:54] Found new file: 20150912-131346.picfile.index
+[2015-10-20 15:55:54] New index file: 20150912-131346.picfile.index
+[2015-10-20 15:55:54] Found new file: 20150914-131346.picfile
+[2015-10-20 15:55:54] Found new file: 20150914-131346.picfile.index
+[2015-10-20 15:55:54] New index file: 20150914-131346.picfile.index
+[2015-10-20 15:55:54] Found new file: 20150930-090953.picfile
+[2015-10-20 15:55:54] Found new file: 20150930-090953.picfile.index
+[2015-10-20 15:55:54] New index file: 20150930-090953.picfile.index
+[2015-10-20 15:56:33] Beginning to search for more files
+[2015-10-20 15:56:33] Found new file: .
+[2015-10-20 15:56:33] Found new file: ..
+[2015-10-20 15:56:33] Found new file: 20150912-131346.picfile
+[2015-10-20 15:56:33] Found new file: 20150912-131346.picfile.index
+[2015-10-20 15:56:33] New index file: 20150912-131346.picfile.index
+[2015-10-20 15:56:33] Found new file: 20150914-131346.picfile
+[2015-10-20 15:56:33] Found new file: 20150914-131346.picfile.index
+[2015-10-20 15:56:33] New index file: 20150914-131346.picfile.index
+[2015-10-20 15:56:33] Found new file: 20150930-090953.picfile
+[2015-10-20 15:56:33] Found new file: 20150930-090953.picfile.index
+[2015-10-20 15:56:33] New index file: 20150930-090953.picfile.index
+[2015-10-20 15:56:33] Opened index file 20150912-131346.picfile.index
+[2015-10-20 15:56:33] Closing index file 20150912-131346.picfile.index
+[2015-10-20 15:56:33] Reading picfile: 20150912-131346.picfile
+[2015-10-20 15:56:33] Failed to create C:\\Users\\Richard\\Documents\\Work\\C++\\ExtractJpg\\snapshots\\00009\2015\0916|L\16|L\CH4\00009_20150916_131342_N40.jpg file! Aborting!
+[2015-10-20 16:10:46] Beginning to search for more files
+[2015-10-20 16:10:46] Found new file: .
+[2015-10-20 16:10:46] Found new file: ..
+[2015-10-20 16:10:46] Found new file: 20150912-131346.picfile
+[2015-10-20 16:10:46] Found new file: 20150912-131346.picfile.index
+[2015-10-20 16:10:46] New index file: 20150912-131346.picfile.index
+[2015-10-20 16:10:46] Found new file: 20150914-131346.picfile
+[2015-10-20 16:10:46] Found new file: 20150914-131346.picfile.index
+[2015-10-20 16:10:46] New index file: 20150914-131346.picfile.index
+[2015-10-20 16:10:46] Found new file: 20150930-090953.picfile
+[2015-10-20 16:10:46] Found new file: 20150930-090953.picfile.index
+[2015-10-20 16:10:46] New index file: 20150930-090953.picfile.index
+[2015-10-20 16:10:46] Opened index file 20150912-131346.picfile.index
+[2015-10-20 16:10:46] Closing index file 20150912-131346.picfile.index
+[2015-10-20 16:10:46] Reading picfile: 20150912-131346.picfile
+[2015-10-20 16:10:47] Closing picfile: 20150912-131346.picfile
+[2015-10-20 16:10:47] Opened index file 20150914-131346.picfile.index
+[2015-10-20 16:10:47] Closing index file 20150914-131346.picfile.index
+[2015-10-20 16:10:47] Reading picfile: 20150914-131346.picfile
+[2015-10-20 16:19:43] Beginning to search for more files
+[2015-10-20 16:19:44] Found new file: .
+[2015-10-20 16:19:44] Found new file: ..
+[2015-10-20 16:19:44] Found new file: 20150912-131346.picfile
+[2015-10-20 16:19:44] Found new file: 20150912-131346.picfile.index
+[2015-10-20 16:19:44] New index file: 20150912-131346.picfile.index
+[2015-10-20 16:19:44] Found new file: 20150914-131346.picfile
+[2015-10-20 16:19:44] Found new file: 20150914-131346.picfile.index
+[2015-10-20 16:19:44] New index file: 20150914-131346.picfile.index
+[2015-10-20 16:19:44] Found new file: 20150930-090953.picfile
+[2015-10-20 16:19:44] Found new file: 20150930-090953.picfile.index
+[2015-10-20 16:19:44] New index file: 20150930-090953.picfile.index
+[2015-10-20 16:19:44] Opened index file 20150912-131346.picfile.index
+[2015-10-20 16:19:44] Closing index file 20150912-131346.picfile.index
+[2015-10-20 16:19:44] This is the end of the file
+[2015-10-20 16:19:44] Opened index file 20150914-131346.picfile.index
+[2015-10-20 16:19:44] Closing index file 20150914-131346.picfile.index
+[2015-10-20 16:19:44] Reading picfile: 20150914-131346.picfile
+[2015-10-20 16:20:35] Beginning to search for more files
+[2015-10-20 16:20:35] Found new file: .
+[2015-10-20 16:20:35] Found new file: ..
+[2015-10-20 16:20:35] Found new file: 20150912-131346.picfile
+[2015-10-20 16:20:35] Found new file: 20150912-131346.picfile.index
+[2015-10-20 16:20:35] New index file: 20150912-131346.picfile.index
+[2015-10-20 16:20:35] Found new file: 20150914-131346.picfile
+[2015-10-20 16:20:35] Found new file: 20150914-131346.picfile.index
+[2015-10-20 16:20:35] New index file: 20150914-131346.picfile.index
+[2015-10-20 16:20:35] Found new file: 20150930-090953.picfile
+[2015-10-20 16:20:35] Found new file: 20150930-090953.picfile.index
+[2015-10-20 16:20:35] New index file: 20150930-090953.picfile.index
+[2015-10-20 16:20:35] Opened index file 20150912-131346.picfile.index
+[2015-10-20 16:20:35] Closing index file 20150912-131346.picfile.index
+[2015-10-20 16:20:35] Reading picfile: 20150912-131346.picfile
+[2015-10-20 16:20:35] Closing picfile: 20150912-131346.picfile
+[2015-10-20 16:20:35] Opened index file 20150914-131346.picfile.index
+[2015-10-20 16:20:35] Closing index file 20150914-131346.picfile.index
+[2015-10-20 16:20:35] Reading picfile: 20150914-131346.picfile

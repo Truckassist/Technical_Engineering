@@ -1,0 +1,14 @@
+[2015-10-23 12:02:13] **START OF PROGRAM**
+[2015-10-23 12:02:13] Beginning to search for more files:
+[2015-10-23 12:02:13] 20150914-131346.picfile.index
+[2015-10-23 12:02:13] 20151012-131346.picfile.index
+[2015-10-23 12:02:13] Reading 20150914-131346.picfile.index
+[2015-10-23 12:02:13] Opened 20150914-131346.picfile.index
+[2015-10-23 12:02:13] Index vector size: 47468
+[2015-10-23 12:02:13] Closing 20150914-131346.picfile.index
+[2015-10-23 12:02:13] This is the end of the file
+[2015-10-23 12:02:13] Reading 20151012-131346.picfile.index
+[2015-10-23 12:02:13] Opened 20151012-131346.picfile.index
+[2015-10-23 12:02:13] Index vector size: 158
+[2015-10-23 12:02:13] Closing 20151012-131346.picfile.index
+[2015-10-23 12:02:13] This is the end of the file
